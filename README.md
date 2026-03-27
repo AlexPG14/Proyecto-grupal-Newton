@@ -41,15 +41,6 @@ Finalmente, los datos se cargan en un DataFrame de Pandas, permitiendo realizar:
 python
 import pandas as pd
 
-# El resultado final es un objeto df listo para la acción:
-
-df = pd.DataFrame(rows)
-
-📊 Proyecto Grupal de Estadística: Correlación y Regresión
-
----
-El núcleo de nuestro análisis consiste en entender cómo se relacionan el área de un país y su población. Para ello, utilizamos una muestra de 100 países elegidos de forma aleatoria, extraídos de una población total de 250 países.
-
 --- 
 
 ## EQUIPO 1:
